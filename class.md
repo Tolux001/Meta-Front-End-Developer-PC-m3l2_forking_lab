@@ -10,7 +10,8 @@
 - ### **A**
     -[Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
 
-    -
+    -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
+
 
 
 
