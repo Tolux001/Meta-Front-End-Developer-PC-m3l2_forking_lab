@@ -8,7 +8,7 @@
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-    -
+    -[Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
 
     -
 
@@ -18,5 +18,4 @@
 - ### **B**
 
 - ### **S**
-
     - [Savvas Voriazidis](https://github.com/voriazidis) Android development
