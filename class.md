@@ -13,8 +13,8 @@
     -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
 
-
-
+- ### **E**
+    -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
 
 - ### **B**
 
