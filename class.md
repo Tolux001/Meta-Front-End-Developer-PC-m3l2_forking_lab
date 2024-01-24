@@ -11,12 +11,14 @@
     -[Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
 
     -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
+- ### **B**
 
 
 - ### **E**
     -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
 
-- ### **B**
+- ### **J**
+    - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
 
 - ### **S**
     - [Savvas Voriazidis](https://github.com/voriazidis) Android development
