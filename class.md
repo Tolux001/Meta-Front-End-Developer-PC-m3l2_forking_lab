@@ -18,7 +18,7 @@
     -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
 
 - ### **J**
-[Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
+    - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
 
 - ### **S**
     - [Savvas Voriazidis](https://github.com/voriazidis) Android development
