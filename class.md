@@ -16,7 +16,8 @@
 
 - ### **E**
     -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
-
+- ### **G**
+    -[GuylaineP](https://github.com/GuylaineP) Frontend Development
 - ### **J**
     - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
 
