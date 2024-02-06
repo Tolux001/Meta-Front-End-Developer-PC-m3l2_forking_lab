@@ -23,3 +23,6 @@
 
 - ### **S**
     - [Savvas Voriazidis](https://github.com/voriazidis) Android development
+
+- ### **T**
+    - [Triantaphilos Terzides](https://github.com/terzidest) React Native development    
