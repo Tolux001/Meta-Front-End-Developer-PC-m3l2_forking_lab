@@ -12,17 +12,13 @@
 
     -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
 - ### **B**
-
-
 - ### **E**
     -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
 - ### **G**
     -[GuylaineP](https://github.com/GuylaineP) Frontend Development
 - ### **J**
     - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
-
 - ### **S**
     - [Savvas Voriazidis](https://github.com/voriazidis) Android development
-
 - ### **T**
     - [Triantaphilos Terzides](https://github.com/terzidest) React Native development   
