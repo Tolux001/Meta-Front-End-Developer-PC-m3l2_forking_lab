@@ -13,7 +13,7 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 
 - https://github.com/Meta-Front-End-Developer-PC/m3l2_forking_lab
 
-### My process
+### The process
 
 -Open and edit the class.MD file
 
