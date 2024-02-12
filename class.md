@@ -13,6 +13,8 @@
 
   -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
+  -[Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
+
 - ### **B**
 
 - ### **E**
