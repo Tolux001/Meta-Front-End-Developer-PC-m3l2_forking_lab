@@ -28,7 +28,8 @@
   -[GuylaineP](https://github.com/GuylaineP) Frontend Development
 
 - ### **H**
-- -[Hafiz Noum](https://github.com.hmnouman) Frontend development
+
+  -[Hafiz Noum](https://github.com.hmnouman) Frontend development
  
 - ### **J**
 
@@ -37,6 +38,7 @@
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
+  - 
   - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
 
 - ### **T**
