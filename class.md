@@ -34,6 +34,7 @@
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
+  - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
 
 - ### **T**
 
