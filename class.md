@@ -27,6 +27,9 @@
 
   -[GuylaineP](https://github.com/GuylaineP) Frontend Development
 
+- ### **H**
+- -[Hafiz Noum](https://github.com.hmnouman) Frontend development
+ 
 - ### **J**
 
   - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
