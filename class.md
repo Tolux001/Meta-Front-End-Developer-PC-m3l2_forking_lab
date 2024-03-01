@@ -35,6 +35,9 @@
 
   - [Jean-Claude] (https://github.com/jeanclaudep97) Front-End Development
 
+- ### **K**
+  - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
+
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
@@ -44,3 +47,4 @@
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
+
