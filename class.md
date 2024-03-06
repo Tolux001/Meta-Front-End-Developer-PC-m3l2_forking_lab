@@ -48,3 +48,4 @@
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
 
+Faisal KSA version control
