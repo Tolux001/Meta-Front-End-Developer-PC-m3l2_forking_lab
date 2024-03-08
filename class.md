@@ -37,7 +37,8 @@
 
 - ### **K**
   - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
-
+- ### **R**
+  - [Roger] Norway. Front-End-Developer
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
