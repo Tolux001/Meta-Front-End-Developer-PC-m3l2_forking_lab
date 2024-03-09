@@ -47,4 +47,4 @@
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
-
+  - [Tanya Lathion](https://github.com/tanyalathion) Version Control
