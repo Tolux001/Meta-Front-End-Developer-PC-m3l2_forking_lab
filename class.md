@@ -1,6 +1,6 @@
-# <b> Class List <b>
+# <b> Class List </b>
 
-<br>
+<br/>
 
 ### **Contents**
 
@@ -41,6 +41,9 @@
 
 - ### **K**
   - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
+
+   ### **M**
+  - [Monica-Pop] (https://github.com/monipop) Front-End Development
 
 - ### **S**
 
