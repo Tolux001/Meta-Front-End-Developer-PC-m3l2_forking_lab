@@ -23,6 +23,10 @@
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
 
+- ### **F**
+  
+  Faisal KSA version control
+  
 - ### **G**
 
   -[GuylaineP](https://github.com/GuylaineP) Frontend Development
