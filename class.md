@@ -54,6 +54,8 @@
   - [Madhu Gopal Sirivella](https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
   
   - Marco - Version Control
+
+  - [Michael Moll](https://github.com/mike2020) Front End Development
   
 - ### **R**
 
