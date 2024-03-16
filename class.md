@@ -19,6 +19,9 @@
 
 - ### **B**
 
+- ### **C**
+  -[Constance](https://github.com/coco390) Frontend Development
+
 - ### **E**
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
@@ -53,10 +56,11 @@
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
    
   - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
+  
 
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
   
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
-=======
+
