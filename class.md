@@ -54,9 +54,11 @@
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
-   
+
+  - [Srinidhi Jha] (https://github.com/srinidhijha) Database Engineering
+           
   - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
-  
+
 
 - ### **T**
 
