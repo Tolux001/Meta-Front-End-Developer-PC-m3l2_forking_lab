@@ -1,6 +1,6 @@
-# <b> Class List <b>
+# <b> Class List </b>
 
-<br>
+<br/>
 
 ### **Contents**
 
@@ -18,6 +18,9 @@
   -[Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
 
 - ### **B**
+
+- ### **C**
+  -[Constance](https://github.com/coco390) Frontend Development
 
 - ### **E**
 
@@ -42,16 +45,36 @@
 - ### **K**
   - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
 
+- ### **M**
+  - [Monica-Pop] (https://github.com/monipop) Front-End Development
+
+  - [Madhu Gopal Sirivella] (https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
+  
+  - Marco - Version Control
+
+
+
+  
+- ### **R**
+  - [Roger] Norway. Front-End-Developer
+  
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
-  - 
+
+  - [Srinidhi Jha] (https://github.com/srinidhijha) Database Engineering
+           
   - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
+
+
 
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
 
-- ### **M**
-  - [Madhu Gopal Sirivella](https://github.com/MadhuGopalSirivella) Meta Back-End Developer Professional Certificate
-- Marco - Version Control
+
+
+
+
+  - [Tanya Lathion](https://github.com/tanyalathion) Version Control
+
