@@ -1,6 +1,6 @@
-# <b> Class List <b>
+# <b> Class List </b>
 
-<br>
+<br/>
 
 ### **Contents**
 
@@ -46,6 +46,8 @@
   - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
 
 - ### **M**
+  - [Monica-Pop] (https://github.com/monipop) Front-End Development
+
   - [Madhu Gopal Sirivella] (https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
   
 - ### **R**
