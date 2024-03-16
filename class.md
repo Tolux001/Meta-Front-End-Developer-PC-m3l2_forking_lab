@@ -19,10 +19,17 @@
 
 - ### **B**
 
+- ### **C**
+  -[Constance](https://github.com/coco390) Frontend Development
+
 - ### **E**
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
 
+- ### **F**
+  
+  Faisal KSA version control
+  
 - ### **G**
 
   -[GuylaineP](https://github.com/GuylaineP) Frontend Development
@@ -38,13 +45,24 @@
 - ### **K**
   - [Kebede-C-Mammo] (https://github.com/Kebede-C-Mammo) Database Engineering
 
+- ### **M**
+  - [Madhu Gopal Sirivella] (https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
+  
+- ### **R**
+  - [Roger] Norway. Front-End-Developer
+  
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
-  - - [Srinidhi Jha] (https://github.com/srinidhijha) Database Engineering
+
+  - [Srinidhi Jha] (https://github.com/srinidhijha) Database Engineering
+           
   - [Shahzaib] (https://github.com/ShahzaibJak) Front-End Development
+
 
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
+  
+  - [Tanya Lathion](https://github.com/tanyalathion) Version Control
 
