@@ -55,6 +55,8 @@
   
   - Marco - Version Control
   
+  - [Maxwell](https://github.com/cpcsztt) Front-End Development
+  
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
