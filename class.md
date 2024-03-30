@@ -17,6 +17,8 @@
 
   -[Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
 
+  -[AR](https://github.com/A7MED92OM) Frontend development
+
 - ### **B**
 
 - ### **C**
