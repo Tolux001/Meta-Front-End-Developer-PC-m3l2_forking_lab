@@ -24,6 +24,10 @@
 
   -[Constance](https://github.com/coco390) Frontend Development
 
+- ### **D**
+
+  -[Dominique STEVE](https://github.com/dsteve) Meta Frontend Developer Professional Certification
+
 - ### **E**
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
