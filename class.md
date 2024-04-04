@@ -26,7 +26,7 @@
 
 - ### **D**
 
-  -[Dominique STEVE](https://github.com/dsteve) Meta Frontend Development Professional Certification
+  -[Dominique STEVE](https://github.com/dsteve) Meta Frontend Developer Professional Certification
 
 - ### **E**
 
