@@ -39,6 +39,7 @@
 - ### **H**
 
   -[Hafiz Noum](https://github.com.hmnouman) Frontend development
+  -[Hannah Garvey](https://github.com/littlesleepydragon) Frontend developement
  
 - ### **J**
 
