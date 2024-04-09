@@ -27,6 +27,7 @@
 - ### **E**
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
+  -[Elveg](https://github.com/geswanel) Backend Development
 
 - ### **F**
   
