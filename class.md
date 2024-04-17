@@ -57,6 +57,8 @@
   - [Madhu Gopal Sirivella](https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
   
   - Marco - Version Control
+
+  - Margaret - Front-End Development
   
   - [Maxwell](https://github.com/cpcsztt) Front-End Development
   
