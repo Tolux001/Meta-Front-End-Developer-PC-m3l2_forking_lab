@@ -1,4 +1,5 @@
-Amani Hawi
+Aigars Skopāns
+Latvia
 Version Control
 
 # <b> Class List </b>
