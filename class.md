@@ -76,6 +76,8 @@ Version Control
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
            
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
+ 
+  - Shyama Nair - Version Control
 
 - ### **T**
 
