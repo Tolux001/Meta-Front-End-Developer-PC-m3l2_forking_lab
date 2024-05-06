@@ -77,6 +77,8 @@ Version Control
            
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
+  - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
+
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
