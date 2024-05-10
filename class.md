@@ -84,3 +84,5 @@ Version Control
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
 
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
+
+  - [Toby Boreham](https://github.com/BlackVyper) iOS Development
