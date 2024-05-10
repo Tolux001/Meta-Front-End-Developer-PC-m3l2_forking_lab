@@ -78,7 +78,11 @@ Version Control
            
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
+
+  - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
+
   - [Sanjay] Back-End-Development
+
 
 - ### **T**
 
