@@ -52,6 +52,7 @@ Version Control
 - ### **K**
 
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
+  - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
 
 - ### **M**
 
@@ -77,7 +78,11 @@ Version Control
            
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
+
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
+
+  - [Sanjay] Back-End-Development
+
 
 - ### **T**
 
@@ -86,3 +91,5 @@ Version Control
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
 
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
+
+  - [Toby Boreham](https://github.com/BlackVyper) iOS Development
