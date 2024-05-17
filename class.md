@@ -48,6 +48,7 @@ Version Control
 - ### **J**
 
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
+  - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate 
 
 - ### **K**
 
