@@ -73,6 +73,8 @@ Version Control
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+
+  - [Robert] - iOS Development
   
 - ### **S**
 
