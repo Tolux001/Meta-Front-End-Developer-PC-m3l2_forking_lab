@@ -102,3 +102,5 @@ Version Control
 
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
 
+Danilo Leal Raul
+Front End Development
