@@ -55,6 +55,10 @@ Version Control
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
 
+- ### **L**
+
+  - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
+
 - ### **M**
 
   - [Monica-Pop](https://github.com/monipop) Front-End Development
