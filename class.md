@@ -27,6 +27,10 @@ Version Control
 
   -[Constance](https://github.com/coco390) Frontend Development
 
+- ### **D**
+
+  -[Derek](https://github.com/dsfuller29) Front-end Development
+
 - ### **E**
 
   -[Ethan Zinnert](https://github.com/Zethan7) Frontend Development
