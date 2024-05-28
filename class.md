@@ -53,6 +53,7 @@ Version Control
 
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate 
+  - [Joshua Maroney] -git  Meta Front-End Developer Professional Certificate
 
 - ### **K**
 
