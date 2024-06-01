@@ -65,6 +65,7 @@ Version Control
 - ### **L**
 
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
+  - [Lily Dunbar] (https://github.com/lily-dunbar) Meta Front-End Developer Professional Certificate
 
 - ### **M**
 
