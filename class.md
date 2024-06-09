@@ -111,3 +111,6 @@ Version Control
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
 
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
+  
+  David Ajibola, Nigeria
+  Meta Android Development  
