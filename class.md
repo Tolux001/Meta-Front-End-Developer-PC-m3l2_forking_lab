@@ -20,6 +20,7 @@ Version Control
 
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
+  - [Arthur] (https://github.com/arthur-borisenko) Meta back-end developer
 
 - ### **B**
 
