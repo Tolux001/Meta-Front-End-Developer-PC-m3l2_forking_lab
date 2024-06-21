@@ -90,6 +90,7 @@ Version Control
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  - [Ram Santosh] - India. Front-End-Developer
   
 - ### **S**
 
