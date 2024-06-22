@@ -1,4 +1,4 @@
-Amani Hawi
+Samuel Thomas
 Version Control
 
 # <b> Class List </b>
