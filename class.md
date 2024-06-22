@@ -1,3 +1,11 @@
+// novikov 
+
+// novikov@gmail.com
+
+// front-end
+
+
+
 Amani Hawi
 Version Control
 
@@ -20,8 +28,11 @@ Version Control
 
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
+  - [Arthur] (https://github.com/arthur-borisenko) Meta back-end developer
 
 - ### **B**
+  
+  - [Brent](https://github.com/brent0w) Backend Development
 
 - ### **C**
 
@@ -90,6 +101,7 @@ Version Control
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  - [Ram Santosh] - India. Front-End-Developer
   
 - ### **S**
 
