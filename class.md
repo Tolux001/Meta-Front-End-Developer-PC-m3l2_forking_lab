@@ -94,6 +94,8 @@ Version Control
 
   - [Muhammad](https://github.com/DevMushka) Meta Android Developer Professional Certificate - Vision Control
 
+  - [Malcolm] Front-end Development
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
