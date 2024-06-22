@@ -22,6 +22,8 @@ Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
 
 - ### **B**
+  
+  - [Brent](https://github.com/brent0w) Backend Development
 
 - ### **C**
 
