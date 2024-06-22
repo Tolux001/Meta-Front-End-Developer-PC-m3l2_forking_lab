@@ -1,5 +1,6 @@
-Amani Hawi
+Advay Inabathini
 Version Control
+Bengaluru
 
 # <b> Class List </b>
 
