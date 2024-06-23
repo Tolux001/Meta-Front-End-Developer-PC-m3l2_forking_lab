@@ -6,8 +6,8 @@
 
 
 
-Amani Hawi
-Version Control
+Omar
+Version control
 
 # <b> Class List </b>
 
