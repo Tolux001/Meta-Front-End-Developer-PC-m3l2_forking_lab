@@ -33,6 +33,7 @@ Version Control
 - ### **B**
   
   - [Brent](https://github.com/brent0w) Backend Development
+  - [Brian] (https://github.com/bchakanyuka) Meta Front-End Development
 
 - ### **C**
 
