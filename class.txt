@@ -1,7 +1,7 @@
 
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
 Charcoal
@@ -9,10 +9,9 @@ Khaki
 Coral
 Silver
 Fuchsia
-Gray
+Purple
 Brown
 Red
-Black
 
 1
 2
@@ -23,4 +22,4 @@ Black
 76
 7
 7
-
+8
