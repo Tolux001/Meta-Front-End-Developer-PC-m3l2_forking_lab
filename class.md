@@ -1,13 +1,4 @@
-// novikov 
-
-// novikov@gmail.com
-
-// front-end
-
-
-
-Amani Hawi
-Version Control
+Read the instructions of this file in the contribution.md || README.md
 
 # <b> Class List </b>
 
