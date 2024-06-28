@@ -1,20 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Read the instructions of this file in the contribution.md || README.md
+Read the instructions of this file in the CONTRIBUTION.md || README.md
 
 
 # <b> Class List </b>
