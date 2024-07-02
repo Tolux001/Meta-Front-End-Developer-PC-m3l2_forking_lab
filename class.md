@@ -1,5 +1,4 @@
-Read the instructions of this file in the CONTRIBUTION.md || README.md
-
+Read the instructions of this file in the README.md
 
 # <b> Class List </b>
 
@@ -20,12 +19,12 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
 
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
-  - [Arthur] (https://github.com/arthur-borisenko) Meta back-end developer
+  - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
 
 - ### **B**
-  
+
   - [Brent](https://github.com/brent0w) Backend Development
-  - [Brian] (https://github.com/bchakanyuka) Meta Front-End Development
+  - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
 
 - ### **C**
 
@@ -43,9 +42,9 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
   - [Elveg](https://github.com/geswanel) Backend Development
 
 - ### **F**
-  
-  - [Faisal KSA]  version control
-  
+
+  - [Faisal KSA] version control
+
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
@@ -53,14 +52,14 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
 - ### **H**
 
   - [Hafiz Noum](https://github.com.hmnouman) Frontend development
-  - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend developement
-  - [Hannah] (https://github.com/HannahHuman) Front End Development! 
- 
+  - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend development
+  - [Hannah](https://github.com/HannahHuman) Front End Development!
+
 - ### **J**
 
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
-  - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate 
-  - [Joshua Maroney] -git  Meta Front-End Developer Professional Certificate
+  - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
+  - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
 
 - ### **K**
 
@@ -79,11 +78,11 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
   - [Madhu Gopal Sirivella](https://github.com/MadhuGopalSirivella) Meta Back End Professional Course
 
   - [Mehmet Yilmaz](https://github.com/mehmet520) Front-End Development
-  
+
   - [Marco] - Version Control
 
   - [Margaret] - Front-End Development
-  
+
   - [Maxwell](https://github.com/cpcsztt) Front-End Development
 
   - [Muhammad](https://github.com/DevMushka) Meta Android Developer Professional Certificate - Vision Control
@@ -93,27 +92,24 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
   - [Ram Santosh] - India. Front-End-Developer
-  
+
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
 
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
-           
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
- 
-  - Shyama Nair - Version Control
 
+  - Shyama Nair - Version Control
 
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
-
 
 - ### **T**
 
@@ -126,4 +122,3 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
-

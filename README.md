@@ -7,15 +7,13 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 - [Link](#link)
 - [My process](#my-process)
 
-
-
 ### Link
 
 - https://github.com/Meta-Front-End-Developer-PC/m3l2_forking_lab
 
 ### The process
 
--Open and edit the class.MD file
+-Open and edit the list_of_name.MD file
 
 -Add your first name
 
@@ -23,6 +21,8 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 
 -Add the name of the certification you are working on
 
+-Follow the alphabetic format of the list
+
 -Play around || Add more files
 
--Please Don't Delete The README.md | Class.md | Contributing.md file
+-Please Don't Delete The README.md | list_of_name.md | Contributing.md file
