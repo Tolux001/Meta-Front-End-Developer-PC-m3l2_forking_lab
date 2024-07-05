@@ -13,7 +13,7 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 
 ### The process
 
--Open and edit the list_of_name.MD file
+-Open and edit the class.MD file
 
 -Add your first name
 
@@ -25,4 +25,4 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 
 -Play around || Add more files
 
--Please Don't Delete The README.md | list_of_name.md | Contributing.md file
+-Please Don't Delete The README.md | class.md | Contributing.md file
