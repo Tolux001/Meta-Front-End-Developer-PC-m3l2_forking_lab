@@ -60,6 +60,7 @@ Read the instructions of this file in the README.md
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
+  - [Joshua] -git Meta Front-End Developer Professional Certificate
 
 - ### **K**
 
@@ -92,6 +93,7 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
+  - [Nyahgit] - Meta-Front-End
 
 - ### **R**
 
