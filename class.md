@@ -124,3 +124,6 @@ Read the instructions of this file in the README.md
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
+  - Bernard 
+  Ghana
+  Version Control
