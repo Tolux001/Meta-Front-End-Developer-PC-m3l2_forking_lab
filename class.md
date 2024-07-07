@@ -128,5 +128,3 @@ Read the instructions of this file in the README.md
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
-
-  
