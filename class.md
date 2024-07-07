@@ -125,4 +125,6 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
+- ### **Y**
 
+  - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
