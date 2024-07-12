@@ -90,6 +90,8 @@ Read the instructions of this file in the README.md
 
   - [Malcolm] Front-end Development
 
+  - [Michael] Front-end Development
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
