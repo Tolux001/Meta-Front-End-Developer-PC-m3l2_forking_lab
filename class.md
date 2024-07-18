@@ -20,6 +20,7 @@ Read the instructions of this file in the README.md
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
+  - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
 
 - ### **B**
 
