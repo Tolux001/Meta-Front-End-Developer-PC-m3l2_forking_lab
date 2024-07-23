@@ -113,6 +113,7 @@ Read the instructions of this file in the CONTRIBUTION.md || README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
+  - [Solnrned] Version Control
 
 
 - ### **T**
