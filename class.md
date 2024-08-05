@@ -56,6 +56,10 @@ Read the instructions of this file in the README.md
   - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend development
   - [Hannah](https://github.com/HannahHuman) Front End Development!
 
+- ### **I**
+
+  -[Indira Fraga](https://github.com/indy-stack) Frontend development
+
 - ### **J**
 
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
