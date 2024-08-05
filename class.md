@@ -58,7 +58,7 @@ Read the instructions of this file in the README.md
 
 - ### **I**
 
-  -[Indira Fraga](https://github.com/indy-stack) Frontend development
+  - [Indira Fraga](https://github.com/indy-stack) Frontend development
 
 - ### **J**
 
