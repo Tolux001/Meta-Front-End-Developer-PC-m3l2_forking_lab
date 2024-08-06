@@ -1,5 +1,5 @@
 Read the instructions of this file in the README.md
-Risima Front-End
+
 # <b> Class List </b>
 
 <br/>
@@ -100,6 +100,7 @@ Risima Front-End
 
   - [Roger] - Norway. Front-End-Developer
   - [Ram Santosh] - India. Front-End-Developer
+  -[Risima] - Meta-Front-End-Developer
 
 - ### **S**
 
