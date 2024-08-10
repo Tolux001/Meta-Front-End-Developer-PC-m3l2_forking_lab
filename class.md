@@ -30,6 +30,7 @@ Read the instructions of this file in the README.md
 - ### **C**
 
   - [Constance](https://github.com/coco390) Frontend Development
+  - [canek UI | André Dumke](https://github.com/canekUI) Meta iOS Development
 
 - ### **D**
 
