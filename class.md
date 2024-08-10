@@ -55,7 +55,7 @@ Read the instructions of this file in the README.md
   - [Hafiz Noum](https://github.com.hmnouman) Frontend development
   - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend development
   - [Hannah](https://github.com/HannahHuman) Front End Development!
-  - [Hasan](https://github.com/h4s4nk44n) Front End Development!
+  - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
 
 
 - ### **J**
