@@ -130,6 +130,8 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
+  - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
+
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
