@@ -74,6 +74,7 @@ Read the instructions of this file in the README.md
 - ### **L**
 
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
+  - [Laieh] Meta Front-End
 
 - ### **M**
 
