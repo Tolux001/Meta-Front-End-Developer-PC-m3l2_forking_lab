@@ -130,7 +130,11 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
+
+  - [Trung Hoang](https://github.com/Trunghoang21) Meta Front-End Developer
+
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
+
 
 - ### **Y**
 
