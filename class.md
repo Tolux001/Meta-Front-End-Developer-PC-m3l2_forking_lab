@@ -21,11 +21,13 @@ Read the instructions of this file in the README.md
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
   - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
+  - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
 
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
   - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
+  - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
 
 - ### **C**
 
@@ -55,6 +57,8 @@ Read the instructions of this file in the README.md
   - [Hafiz Noum](https://github.com.hmnouman) Frontend development
   - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend development
   - [Hannah](https://github.com/HannahHuman) Front End Development!
+  - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
+
 
 - ### **J**
 
@@ -72,7 +76,11 @@ Read the instructions of this file in the README.md
 - ### **L**
 
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
+
   - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
+
+  - [Laieh] Meta Front-End
+
 
 - ### **M**
 
@@ -128,7 +136,14 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
+
+  - [Trung Hoang](https://github.com/Trunghoang21) Meta Front-End Developer
+
+  - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
+
+
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
+  - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
