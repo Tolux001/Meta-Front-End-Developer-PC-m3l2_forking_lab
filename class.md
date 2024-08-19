@@ -113,6 +113,10 @@ Read the instructions of this file in the README.md
   
   - [Nyahgit] - Meta-Front-End
 
+- ### **P**
+
+  - [Pedro] - Meta-Front-End
+
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
