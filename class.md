@@ -12,7 +12,7 @@ Read the instructions of this file in the README.md
 - ### **A**
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
-
+  - [Adriaan Henning](https://github.com/) Version Control
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
