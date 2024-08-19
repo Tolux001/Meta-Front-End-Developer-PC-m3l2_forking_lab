@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
@@ -14,7 +13,8 @@ Read the instructions of this file in the README.md
 - ### **A**
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
-
+ 
+  - [Adriaan Henning](https://github.com/) Version Control
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
@@ -34,6 +34,7 @@ Read the instructions of this file in the README.md
 - ### **C**
 
   - [Constance](https://github.com/coco390) Frontend Development
+  - [Claudia](https://github.com/Clau-panda) Frontend Development
 
 - ### **D**
 
@@ -61,6 +62,8 @@ Read the instructions of this file in the README.md
   - [Hafiz Noum](https://github.com.hmnouman) Frontend development
   - [Hannah Garvey](https://github.com/littlesleepydragon) Frontend development
   - [Hannah](https://github.com/HannahHuman) Front End Development!
+  - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
+
 
 - ### **J**
 
@@ -78,7 +81,11 @@ Read the instructions of this file in the README.md
 - ### **L**
 
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
+
+  - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
+
   - [Laieh] Meta Front-End
+
 
 - ### **M**
 
@@ -98,14 +105,18 @@ Read the instructions of this file in the README.md
 
   - [Malcolm] Front-end Development
 
+  - [Matt](https://github.com/mmarron79) Front-End Development
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
+  
   - [Nyahgit] - Meta-Front-End
 
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  
   - [Ram Santosh] - India. Front-End-Developer
 
 - ### **S**
@@ -113,6 +124,7 @@ Read the instructions of this file in the README.md
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
 
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
+
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
   - Shyama Nair - Version Control
@@ -120,6 +132,7 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
+  - 
   - [Solnrned] Version Control
 
 - ### **T**
@@ -134,11 +147,14 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
+  - [Trung Hoang](https://github.com/Trunghoang21) Meta Front-End Developer
+
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
+
 
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
->>>>>>> minor changes
 
-<<EOL
+  - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
+
