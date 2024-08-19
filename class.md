@@ -1,3 +1,4 @@
+
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
@@ -12,6 +13,7 @@ Read the instructions of this file in the README.md
 - ### **A**
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
+ 
   - [Adriaan Henning](https://github.com/) Version Control
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
@@ -44,6 +46,8 @@ Read the instructions of this file in the README.md
 
   - [Ethan Zinnert](https://github.com/Zethan7) Frontend Development
   - [Elveg](https://github.com/geswanel) Backend Development
+  - [Erika Franco](https://github.com/ferfrasa) ios Development
+
 
 - ### **F**
 
@@ -106,11 +110,13 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
+  
   - [Nyahgit] - Meta-Front-End
 
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  
   - [Ram Santosh] - India. Front-End-Developer
 
 - ### **S**
@@ -118,6 +124,7 @@ Read the instructions of this file in the README.md
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
 
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
+
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
   - Shyama Nair - Version Control
@@ -125,6 +132,7 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
+  - 
   - [Solnrned] Version Control
 
 - ### **T**
@@ -139,7 +147,6 @@ Read the instructions of this file in the README.md
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
 
-
   - [Trung Hoang](https://github.com/Trunghoang21) Meta Front-End Developer
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
@@ -148,5 +155,6 @@ Read the instructions of this file in the README.md
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
+
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
