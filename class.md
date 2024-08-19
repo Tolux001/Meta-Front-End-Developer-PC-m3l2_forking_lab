@@ -32,6 +32,7 @@ Read the instructions of this file in the README.md
 - ### **C**
 
   - [Constance](https://github.com/coco390) Frontend Development
+  - [Claudia](https://github.com/Clau-panda) Frontend Development
 
 - ### **D**
 
