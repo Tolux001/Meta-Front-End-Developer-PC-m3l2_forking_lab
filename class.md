@@ -71,6 +71,7 @@ Read the instructions of this file in the README.md
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
+  - [Jolly] Meta iOS Developer Professional Certificate
 
 - ### **K**
 
