@@ -77,7 +77,7 @@ Read the instructions of this file in the README.md
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
-
+  - [Karan Chauhan](https://github.com/Karandevelo) Frontend Developer Professional Certificate by Meta
 - ### **L**
 
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
