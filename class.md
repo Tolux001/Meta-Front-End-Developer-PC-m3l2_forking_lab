@@ -47,6 +47,7 @@ Read the instructions of this file in the README.md
   - [Ethan Zinnert](https://github.com/Zethan7) Frontend Development
   - [Elveg](https://github.com/geswanel) Backend Development
   - [Erika Franco](https://github.com/ferfrasa) ios Development
+  - [Evan Ouellette] (https://github.com/syrinth) Backend Development
 
 
 - ### **F**
