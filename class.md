@@ -24,6 +24,7 @@ Read the instructions of this file in the README.md
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
   - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
+  - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
 
 - ### **B**
 
