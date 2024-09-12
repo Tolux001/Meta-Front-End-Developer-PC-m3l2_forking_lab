@@ -64,6 +64,8 @@ Read the instructions of this file in the README.md
   - [Hannah](https://github.com/HannahHuman) Front End Development!
   - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
 
+- ### **I**
+  - [Indra Leon](https://github.com/IndraLeonV) Frontend development
 
 - ### **J**
 
