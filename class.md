@@ -90,6 +90,7 @@ Read the instructions of this file in the README.md
 
   - [Laieh] Meta Front-End
 
+  - [Luis Castro](https://github.com/LuisCas18) Meta Front-End Developer Professional Certificate
 
 - ### **M**
 
