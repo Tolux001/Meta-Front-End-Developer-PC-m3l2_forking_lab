@@ -12,9 +12,12 @@ Read the instructions of this file in the README.md
 
 - ### **A**
 
+  - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
+
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
  
   - [Adriaan Henning](https://github.com/) Version Control
+  - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
@@ -47,7 +50,7 @@ Read the instructions of this file in the README.md
   - [Ethan Zinnert](https://github.com/Zethan7) Frontend Development
   - [Elveg](https://github.com/geswanel) Backend Development
   - [Erika Franco](https://github.com/ferfrasa) ios Development
-
+  - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
 
 - ### **F**
 
@@ -66,11 +69,12 @@ Read the instructions of this file in the README.md
 
 
 - ### **J**
-
+  - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
+  - [Jolly] Meta iOS Developer Professional Certificate
 
 - ### **K**
 
@@ -86,6 +90,7 @@ Read the instructions of this file in the README.md
 
   - [Laieh] Meta Front-End
 
+  - [Luis Castro](https://github.com/LuisCas18) Meta Front-End Developer Professional Certificate
 
 - ### **M**
 
@@ -106,6 +111,8 @@ Read the instructions of this file in the README.md
   - [Malcolm] Front-end Development
 
   - [Matt](https://github.com/mmarron79) Front-End Development
+  
+  - Md Arfatul_Canada_Version Control
 
 - ### **N**
 
@@ -116,6 +123,7 @@ Read the instructions of this file in the README.md
 - ### **P**
 
   - [Pedro] - Meta-Front-End
+  - [Paula] - Meta-Front-End
 
 - ### **R**
 
