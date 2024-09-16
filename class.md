@@ -107,6 +107,8 @@ Read the instructions of this file in the README.md
 
   - [Matt](https://github.com/mmarron79) Front-End Development
 
+  - [Moayad] - Meta Front-end development Professional Certificate
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
