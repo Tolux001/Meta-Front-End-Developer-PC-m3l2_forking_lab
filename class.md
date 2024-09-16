@@ -12,6 +12,8 @@ Read the instructions of this file in the README.md
 
 - ### **A**
 
+  - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
+
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
  
   - [Adriaan Henning](https://github.com/) Version Control
