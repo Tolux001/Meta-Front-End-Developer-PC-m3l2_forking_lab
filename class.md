@@ -69,6 +69,8 @@ Read the instructions of this file in the README.md
   - [Hans](https://github.com/hansr3) Meta Front-End Developer Professional Certificate
   - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
 
+- ### **I**
+  - [Indra Leon](https://github.com/IndraLeonV) Frontend development
 
 - ### **J**
   - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
