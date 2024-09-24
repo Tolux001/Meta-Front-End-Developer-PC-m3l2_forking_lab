@@ -1,4 +1,3 @@
-
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
@@ -15,7 +14,6 @@ Read the instructions of this file in the README.md
   - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
- 
   - [Adriaan Henning](https://github.com/) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
@@ -70,9 +68,11 @@ Read the instructions of this file in the README.md
   - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
 
 - ### **I**
+
   - [Indra Leon](https://github.com/IndraLeonV) Frontend development
 
 - ### **J**
+
   - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
@@ -115,7 +115,6 @@ Read the instructions of this file in the README.md
   - [Malcolm] Front-end Development
 
   - [Matt](https://github.com/mmarron79) Front-End Development
-  
   - Md Arfatul_Canada_Version Control
 
   - [Moayad] - Meta Front-end development Professional Certificate
@@ -123,7 +122,6 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
   - [Nyahgit] - Meta-Front-End
 
 - ### **P**
@@ -134,7 +132,6 @@ Read the instructions of this file in the README.md
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
-  
   - [Ram Santosh] - India. Front-End-Developer
 
 - ### **S**
@@ -150,7 +147,7 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
-  - 
+  -
   - [Solnrned] Version Control
 
 - ### **T**
@@ -161,6 +158,8 @@ Read the instructions of this file in the README.md
 
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
 
+  - [Tobias Hänel](https://github.com/tobias-haenel) Meta Database Engineer
+
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
 
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
@@ -169,10 +168,8 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
-
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
-
