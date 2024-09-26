@@ -5,7 +5,7 @@ Read the instructions of this file in the README.md
 
 <br/>
 
-### **Contents**
+### ***Contents***
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
@@ -28,6 +28,7 @@ Read the instructions of this file in the README.md
   - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
+  - [Anh Do](https://github.com/Anhdox) Meta Front-End development
 
 - ### **B**
 
