@@ -89,7 +89,7 @@ Read the instructions of this file in the README.md
 - ### **L**
 
   - [Leonel sanchez ](https://github.com/leotreinta) Meta Front-End Developer Professional Certificate
-
+  
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
 
   - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
