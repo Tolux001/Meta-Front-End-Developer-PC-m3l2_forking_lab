@@ -60,6 +60,7 @@ Read the instructions of this file in the README.md
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
+  - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
 
 - ### **H**
 
