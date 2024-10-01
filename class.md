@@ -52,6 +52,7 @@ Read the instructions of this file in the README.md
   - [Elveg](https://github.com/geswanel) Backend Development
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
+  - [Enrique] (Dominican Republic) Version Control
 
 - ### **F**
 
