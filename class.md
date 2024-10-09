@@ -139,7 +139,7 @@ Read the instructions of this file in the README.md
   - [Ram Santosh] - India. Front-End-Developer
 
 - ### **S**
-
+  -[sam Hopkins] - Meta Database Engineer
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
 
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
