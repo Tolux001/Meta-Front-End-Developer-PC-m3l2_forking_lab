@@ -28,6 +28,7 @@ Read the instructions of this file in the README.md
   - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
+  - [Aneesh] Meta Front-End Developer Professional Certificate
 
 - ### **B**
 
