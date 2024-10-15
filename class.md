@@ -131,6 +131,7 @@ Read the instructions of this file in the README.md
 
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
+  - [Papa] - Meta-Front-End-Developer
 
 - ### **R**
 
