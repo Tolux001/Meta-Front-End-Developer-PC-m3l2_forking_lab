@@ -44,6 +44,7 @@ Read the instructions of this file in the README.md
 
   - [Derek](https://github.com/dsfuller29) Front-end Development
 
+  - [Diego Rejon](https://github.com/DiegoRejon) Back-end Development
   - [Danilo Leal Raul] Front End Development
 
 - ### **E**
