@@ -80,7 +80,8 @@ Read the instructions of this file in the README.md
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
   - [Jolly] Meta iOS Developer Professional Certificate
-
+  - [Julio Rodriguez] (https://github.com/juliorm7) Certificado profesional de Meta Database Engineer
+  
 - ### **K**
 
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
