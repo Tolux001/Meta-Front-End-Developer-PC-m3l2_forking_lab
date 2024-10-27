@@ -55,7 +55,7 @@ Read the instructions of this file in the README.md
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
 
 - ### **F**
-
+  - [Faisal Yakubu](https://github.com/Faisalqob) Meta Front-End Developer Professional Certificate
   - [Faisal KSA] version control
 
 - ### **G**
