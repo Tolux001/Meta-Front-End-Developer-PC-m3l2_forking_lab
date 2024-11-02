@@ -97,6 +97,7 @@ Read the instructions of this file in the README.md
 
   - [Luis Castro](https://github.com/LuisCas18) Meta Front-End Developer Professional Certificate
 
+  - [Lolita] - Version control
 - ### **M**
 
   - [Monica-Pop](https://github.com/monipop) Front-End Development
