@@ -121,6 +121,8 @@ Read the instructions of this file in the README.md
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Nick](https://github.com/nick121684) Version Control
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
