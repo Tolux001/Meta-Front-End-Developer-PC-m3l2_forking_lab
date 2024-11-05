@@ -11,4 +11,4 @@ Fuchsia
 Purple
 Brown
 Red
-Dark blue
+Cerulean
