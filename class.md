@@ -63,6 +63,7 @@ Read the instructions of this file in the README.md
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
+  - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
 
 - ### **H**
 
@@ -82,6 +83,7 @@ Read the instructions of this file in the README.md
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
   - [Jolly] Meta iOS Developer Professional Certificate
+  - [Juan] Meta Front-End Developer Professional Certificate
 
 - ### **K**
 
