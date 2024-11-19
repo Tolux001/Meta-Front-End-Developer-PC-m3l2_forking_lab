@@ -158,8 +158,11 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
-  - 
+  
   - [Solnrned] Version Control
+
+  - [Shane Forsythe](https://github.com/4sytheLTD)
+
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
