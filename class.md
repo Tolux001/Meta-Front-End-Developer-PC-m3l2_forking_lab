@@ -161,7 +161,7 @@ Read the instructions of this file in the README.md
   
   - [Solnrned] Version Control
 
-  - [Shane Forsythe](https://github.com/4sytheLTD)
+  - [Shane Forsythe](https://github.com/4sytheLTD) Meta React Native & Front End Developer IA, United States
 
 
 - ### **T**
