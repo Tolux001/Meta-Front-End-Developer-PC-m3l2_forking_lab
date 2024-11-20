@@ -59,6 +59,7 @@ Read the instructions of this file in the README.md
 - ### **F**
 
   - [Faisal KSA] version control
+  - [Faycal] (Santa Clara) version control
 
 - ### **G**
 
