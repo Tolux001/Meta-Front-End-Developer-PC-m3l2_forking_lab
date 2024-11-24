@@ -11,4 +11,5 @@ Fuchsia
 Purple
 Brown
 Red
-Dark blue
+navy blue
+Tangerine
