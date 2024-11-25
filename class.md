@@ -1,6 +1,8 @@
 
 Read the instructions of this file in the README.md
 
+Juan Gomez - Version Control Certificate
+
 # <b> Class List </b>
 
 <br/>
