@@ -10,5 +10,6 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
 Dark blue
+Teal
+Cyan
