@@ -147,7 +147,7 @@ Read the instructions of this file in the README.md
 
   - [Ram Santosh] - India. Front-End-Developer
 
-  - [Ruben] - Switzerland - Front-End-Developer
+  - [Ruben](https://github.com/ruben-cc) - Switzerland - Front-End-Developer
 
 - ### **S**
 
