@@ -1,4 +1,3 @@
-
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
@@ -29,6 +28,7 @@ Read the instructions of this file in the README.md
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
   - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
+
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
@@ -74,9 +74,11 @@ Read the instructions of this file in the README.md
   - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
 
 - ### **I**
+
   - [Indra Leon](https://github.com/IndraLeonV) Frontend development
 
 - ### **J**
+
   - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
@@ -93,7 +95,7 @@ Read the instructions of this file in the README.md
 - ### **L**
 
   - [Leonel sanchez ](https://github.com/leotreinta) Meta Front-End Developer Professional Certificate
-  
+
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
 
   - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
@@ -121,7 +123,7 @@ Read the instructions of this file in the README.md
   - [Malcolm] Front-end Development
 
   - [Matt](https://github.com/mmarron79) Front-End Development
-  
+
   - Md Arfatul_Canada_Version Control
 
   - [Moayad] - Meta Front-end development Professional Certificate
@@ -129,7 +131,7 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
@@ -142,8 +144,10 @@ Read the instructions of this file in the README.md
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
-  
+
   - [Ram Santosh] - India. Front-End-Developer
+
+  - [Ruben] - Switzerland - Front-End-Developer
 
 - ### **S**
 
@@ -158,10 +162,11 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
-  - 
+  -
   - [Solnrned] Version Control
 
 - ### **T**
+
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
@@ -178,10 +183,8 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
-
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
-
