@@ -126,7 +126,7 @@ Read the instructions of this file in the README.md
 
   - [Moayad] - Meta Front-end development Professional Certificate
  
-  - [Matthew T](https://github.com/MatthewProjects) Version Control
+  - [Matthew T](https://github.com/MatthewProjects) - Version Control
 
 - ### **N**
 
