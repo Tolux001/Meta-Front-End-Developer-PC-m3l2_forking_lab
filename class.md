@@ -133,6 +133,11 @@ Read the instructions of this file in the README.md
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
+  - ### **O**
+
+  - [Oluwanifemi] - Meta Backend Developement
+
+
 - ### **P**
 
   - [Pedro] - Meta-Front-End
