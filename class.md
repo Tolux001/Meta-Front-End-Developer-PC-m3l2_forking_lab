@@ -18,6 +18,7 @@ Read the instructions of this file in the README.md
   - [Adriaan Henning](https://github.com/) Version Control
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
+  - [Andres Penarrubia(https://github.com/peniasuki) Frotend Development]
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
 
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
