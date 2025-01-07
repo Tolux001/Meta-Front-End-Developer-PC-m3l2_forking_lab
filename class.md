@@ -129,7 +129,7 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+  -[Nana] - Mexico, Meta-Front-End
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
