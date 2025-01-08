@@ -142,7 +142,7 @@ Read the instructions of this file in the README.md
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
-  - [Ram S.] - Colorado, Meta-Front-End-Developer
+  - [Ram S.] - Colorado, Meta-Front-End-Developer Certification
   - [Ram Santosh] - India. Front-End-Developer
 
 - ### **S**
