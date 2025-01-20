@@ -29,6 +29,8 @@ Read the instructions of this file in the README.md
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
   - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
+  - [Albert Usaqui](https://github.com/usaqui-albert) Meta React Native Specialization
+
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
