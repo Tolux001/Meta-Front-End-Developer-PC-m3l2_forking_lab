@@ -43,7 +43,7 @@ Read the instructions of this file in the README.md
 - ### **D**
 
   - [Derek](https://github.com/dsfuller29) Front-end Development
-
+  - [Dennis] Peru (https://github.com/dnniz) Backend Development
   - [Danilo Leal Raul] Front End Development
   - [Dimi](https://github.com/delorienC) Full-Stack Development
 
