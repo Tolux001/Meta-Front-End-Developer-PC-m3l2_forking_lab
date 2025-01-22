@@ -55,6 +55,7 @@ Read the instructions of this file in the README.md
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
   - [Enrique] (Dominican Republic) Version Control
+  - [excelscholar](https://github.com/excelscholar) Version Control
 
 - ### **F**
 
