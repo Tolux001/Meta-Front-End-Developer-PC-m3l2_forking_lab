@@ -28,7 +28,7 @@ Read the instructions of this file in the README.md
   - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
-
+  - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
@@ -45,6 +45,7 @@ Read the instructions of this file in the README.md
   - [Derek](https://github.com/dsfuller29) Front-end Development
 
   - [Danilo Leal Raul] Front End Development
+  - [Dimi](https://github.com/delorienC) Full-Stack Development
 
 - ### **E**
 
@@ -53,7 +54,9 @@ Read the instructions of this file in the README.md
   - [Eric] -- Meta Android Developer Professional Certificate
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
-  - [Eric B] PA - Meta Front-End Development
+  - [Eric B](PA) - Meta Front-End Development
+  - [Enrique](Dominican Republic) Version Control
+
 
 - ### **F**
 
@@ -62,6 +65,7 @@ Read the instructions of this file in the README.md
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
+  - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
 
 - ### **H**
 
@@ -90,6 +94,8 @@ Read the instructions of this file in the README.md
 
 - ### **L**
 
+  - [Leonel sanchez ](https://github.com/leotreinta) Meta Front-End Developer Professional Certificate
+  
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
 
   - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
@@ -126,12 +132,14 @@ Read the instructions of this file in the README.md
 
   - [Nathan] - Front-End-Developer
   
+  - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
 - ### **P**
 
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
+  - [Phuwit] - Meta-Front-End
 
 - ### **R**
 
