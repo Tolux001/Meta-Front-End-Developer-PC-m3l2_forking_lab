@@ -12,3 +12,4 @@ Purple
 Brown
 Red
 Dark blue
+New color added
