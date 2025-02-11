@@ -128,6 +128,8 @@ Read the instructions of this file in the README.md
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Manujaya](https://github.com/manujayapasa) - Meta Front-end development Professional Certificate
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
