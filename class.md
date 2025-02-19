@@ -163,7 +163,7 @@ Read the instructions of this file in the README.md
   - [Sanjay] Back-End-Development
   - 
   - [Solnrned] Version Control
-  - [Sooraj P.S] Version Control
+  - [Sooraj p.s] Version Control
 
 
 - ### **T**
