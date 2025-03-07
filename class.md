@@ -132,7 +132,7 @@ Read the instructions of this file in the README.md
 
   - [Nathan] - Front-End-Developer
   - [Niklas] - Meta Frontend Developer
-  - [Nicolas] - Canada, Meta-Front-EndS
+  - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
 - ### **P**
