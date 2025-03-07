@@ -131,8 +131,8 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
-  - [Nicolas] - Canada, Meta-Front-End
+  - [Niklas] - Meta Frontend Developer
+  - [Nicolas] - Canada, Meta-Front-EndS
   - [Nyahgit] - Meta-Front-End
 
 - ### **P**
