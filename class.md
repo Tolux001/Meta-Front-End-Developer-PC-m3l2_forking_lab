@@ -11,24 +11,22 @@ Read the instructions of this file in the README.md
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
-  - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
-
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
+  - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
-
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
-
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
-  - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
-  - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
-  - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
-  - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
+  - [Alexander Onopriienko](https://github.com/Jobisfun) Front-End development
+  - [Atharva Pashankar](https://github.com/atharvapashankar) Meta Front-End development
+  - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
+  - [Aneesh] Meta Front-End Developer Professional Certificate
+  - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
+
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
@@ -88,7 +86,7 @@ Read the instructions of this file in the README.md
   - [Jolly] Meta iOS Developer Professional Certificate
 
 - ### **K**
-
+  -  Kudrah - London,UK - Meta Backend development Professional Certificate
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
