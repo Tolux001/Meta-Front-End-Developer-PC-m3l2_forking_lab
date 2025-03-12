@@ -23,6 +23,7 @@ Read the instructions of this file in the README.md
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
   - [Alexander Onopriienko](https://github.com/Jobisfun) Front-End development
+  - [Alexandre] Meta Back-End Developer
   - [Atharva Pashankar](https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
   - [Aneesh] Meta Front-End Developer Professional Certificate
