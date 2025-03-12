@@ -165,19 +165,13 @@ Read the instructions of this file in the README.md
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
-
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
-
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
-
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
-
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
-
   - [Sanjana Sankholkar](https://github.com/SanjanaSankholkar123)
-
+  - [Tim] Meta Front-End Developer
   - [Trung Hoang](https://github.com/Trunghoang21) Meta Front-End Developer
-
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
 
