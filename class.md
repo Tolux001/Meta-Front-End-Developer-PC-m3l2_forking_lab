@@ -128,6 +128,8 @@ Read the instructions of this file in the README.md
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Michael] - Meta React Native Professional Certificate
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
