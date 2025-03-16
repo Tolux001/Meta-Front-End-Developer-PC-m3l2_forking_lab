@@ -49,6 +49,7 @@ Read the instructions of this file in the README.md
 
 - ### **E**
 
+  - [EB] - Meta Front-End Development
   - [Ethan Zinnert](https://github.com/Zethan7) Frontend Development
   - [Elveg](https://github.com/geswanel) Backend Development
   - [Eric] -- Meta Android Developer Professional Certificate
