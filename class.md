@@ -83,6 +83,7 @@ Read the instructions of this file in the README.md
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
+  - [Joshua] Meta Back-End Developer
   - [Joshua] -git Meta Front-End Developer Professional Certificate
   - [Jolly] Meta iOS Developer Professional Certificate
 
