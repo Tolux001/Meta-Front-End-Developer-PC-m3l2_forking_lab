@@ -27,7 +27,7 @@ Read the instructions of this file in the README.md
   - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
   - [Aneesh] Meta Front-End Developer Professional Certificate
   - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
-
+  - [Abinaya] Meta Front-End Developer Professional Certificate
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
