@@ -131,7 +131,7 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+  - [Nicky Lugo] - Meta Android Developer Professional Certificate - Vision Control
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
