@@ -131,7 +131,7 @@ Read the instructions of this file in the README.md
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  - [Nick_Mexico] Meta Front-end development Professional Certificate
+  - [Nick Mexico] Meta Front-end development Professional Certificate
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
