@@ -187,3 +187,6 @@ Read the instructions of this file in the README.md
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+Name: Shahinaz
+Location: Egypt
+Certification: Meta Front-End Developer
