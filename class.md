@@ -147,6 +147,8 @@ Read the instructions of this file in the README.md
   
   - [Ram Santosh] - India. Front-End-Developer
 
+  - [Rj] - Meta-Front-End-Developer
+
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
