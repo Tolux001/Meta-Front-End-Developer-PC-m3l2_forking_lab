@@ -146,6 +146,7 @@ Read the instructions of this file in the README.md
   - [Roger] - Norway. Front-End-Developer
   
   - [Ram Santosh] - India. Front-End-Developer
+  - [Ryan Oliver Euden] - Version Control
 
 - ### **S**
 
