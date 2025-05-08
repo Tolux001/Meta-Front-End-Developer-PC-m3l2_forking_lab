@@ -33,6 +33,7 @@ Read the instructions of this file in the README.md
   - [Brent](https://github.com/brent0w) Backend Development
   - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
   - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
+  - [Bhagavatula](https://github.com/Bhagavatula-RVSS-Saisree) META Frond-End Development
 
 - ### **C**
 
