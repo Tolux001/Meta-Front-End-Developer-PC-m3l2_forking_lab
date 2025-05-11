@@ -81,6 +81,7 @@ Read the instructions of this file in the README.md
 - ### **J**
   - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
   - [Jean-Claude](https://github.com/jeanclaudep97) Front-End Development
+  - [Jaime](https://github.com/JaimeEV/) Meta Front-End Developer Professional Certificate
   - [Juan=Cruz](https://github.com/PFM-Cucu) - Meta Front-End Developer Professional Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
