@@ -180,6 +180,8 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
+  - [Troiano Giuseppe](https://github.com/spacepotatoes) Meta Front-End Developer
+
 
 - ### **Y**
 
