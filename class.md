@@ -17,6 +17,7 @@ Read the instructions of this file in the README.md
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
+  - [Andy Huang](https://github.com/AndyHuang214) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
