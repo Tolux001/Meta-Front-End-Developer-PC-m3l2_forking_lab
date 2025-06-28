@@ -14,6 +14,7 @@ Read the instructions of this file in the README.md
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
+  - [Adaramola Samson](https://github.com/Samadan01) Meta Database Engineer
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
