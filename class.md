@@ -12,6 +12,7 @@ Read the instructions of this file in the README.md
 
 - ### **A**
 
+  - [Augustus Ceasar](https://github.com/RanunculusX) Version Control
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
