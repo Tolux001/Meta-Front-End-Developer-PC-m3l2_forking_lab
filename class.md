@@ -1,4 +1,4 @@
-
+Liliia Shubina (https://github.com/LiliiaShubina/Meta-Front-End-Developer-PC-m3l2_forking_lab) Version Control
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
