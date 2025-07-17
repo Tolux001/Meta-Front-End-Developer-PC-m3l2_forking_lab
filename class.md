@@ -1,4 +1,4 @@
-Idiris Abdi Meta Android Developer
+
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
@@ -11,7 +11,7 @@ Read the instructions of this file in the README.md
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
+  -[Idiris Abdi](https://github.com/idiris401) Meta Adnroid Developer
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
