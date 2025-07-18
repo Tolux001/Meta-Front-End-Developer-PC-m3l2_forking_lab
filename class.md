@@ -77,6 +77,7 @@ Read the instructions of this file in the README.md
 
 - ### **I**
   - [Indra Leon](https://github.com/IndraLeonV) Frontend development
+  - [Ibrahim](https://github.com/Mibrahim0941) Meta Android development
 
 - ### **J**
   - [Juan Camilo Martinez](https://github.com/Urkeko) Frontend development -Software Engineer
