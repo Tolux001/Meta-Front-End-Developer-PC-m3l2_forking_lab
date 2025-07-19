@@ -147,6 +147,8 @@ Read the instructions of this file in the README.md
   
   - [Ram Santosh] - India. Front-End-Developer
 
+  - [Rinidh](https://github.com/Rinidh) - Meta Frontend Developer Professional Certificate
+
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
