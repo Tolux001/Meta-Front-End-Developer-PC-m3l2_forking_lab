@@ -66,6 +66,7 @@ Read the instructions of this file in the README.md
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
   - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
+  - [Giuseppe Ranieri](https://github.com/rgiuse) Meta Front-End Developer Professional Certificate
 
 - ### **H**
 
