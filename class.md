@@ -45,6 +45,7 @@ Read the instructions of this file in the README.md
   - [Danilo Leal Raul] Front End Development
   - [Dat Nguyen](https://github.com/dtnguyen0503) Full-stack developer
   - [Dimi](https://github.com/delorienC) Full-Stack Development
+  - [Dmitriy Chernichenko](https://github.com/DiscipleA) Back-End Developer
 
 
 - ### **E**
