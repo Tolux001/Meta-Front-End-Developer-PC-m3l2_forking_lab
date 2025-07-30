@@ -31,6 +31,7 @@ Read the instructions of this file in the README.md
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
+  - [Bill](https://github.com/Billmorf) Backend Development
   - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
   - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
 
