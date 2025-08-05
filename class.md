@@ -149,6 +149,8 @@ Read the instructions of this file in the README.md
 
 - ### **S**
 
+  - [Set Wai](https://github.com/SetWai) Meta Back-end Development
+
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
 
   - [Srinidhi Jha](https://github.com/srinidhijha) Database Engineering
@@ -162,6 +164,7 @@ Read the instructions of this file in the README.md
   - [Sanjay] Back-End-Development
   - 
   - [Solnrned] Version Control
+
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
