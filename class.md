@@ -85,6 +85,7 @@ Read the instructions of this file in the README.md
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
   - [Jolly] Meta iOS Developer Professional Certificate
+  - [Jake] Meta Front-End Development
 
 - ### **K**
 
