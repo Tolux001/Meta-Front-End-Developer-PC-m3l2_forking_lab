@@ -45,6 +45,7 @@ Read the instructions of this file in the README.md
   - [Danilo Leal Raul] Front End Development
   - [Dat Nguyen](https://github.com/dtnguyen0503) Full-stack developer
   - [Dimi](https://github.com/delorienC) Full-Stack Development
+  - [Diego](https://github.com/xDin) Meta Front-End Developer Professional Certificate
 
 
 - ### **E**
