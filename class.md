@@ -11,7 +11,7 @@ Read the instructions of this file in the README.md
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
+  - [Abu Sayeed Md Shawon](https://github.com/sayeedshawon) Meta Database Engineer
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
