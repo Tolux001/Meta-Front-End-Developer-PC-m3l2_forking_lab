@@ -1,14 +1,5 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
-Dark blue
+Dum
+Loquimur
+Fugerit
+Invida
+Aetas
