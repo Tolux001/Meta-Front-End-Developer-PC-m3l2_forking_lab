@@ -128,6 +128,8 @@ Read the instructions of this file in the README.md
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Miha] (https://github.com/rePinyo) - Meta Front-End Developer Professional Certificate
+
 - ### **N**
 
   - [Nathan] - Front-End-Developer
