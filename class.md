@@ -162,6 +162,7 @@ Read the instructions of this file in the README.md
   - [Sanjay] Back-End-Development
   - 
   - [Solnrned] Version Control
+  - [Samart Karuchit] (https://github.com/samartka) Front-End Development
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
