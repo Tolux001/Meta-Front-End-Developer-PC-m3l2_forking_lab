@@ -141,6 +141,9 @@ Read the instructions of this file in the README.md
   - [Paula] - Meta-Front-End
   - [Phuwit] - Meta-Front-End
 
+- ### **O**
+  - [Osita](https://github.com/see-why) Version Control
+
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
