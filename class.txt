@@ -1,14 +1,1 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
-Dark blue
+je viens de réeussir à faire le forking merci 
