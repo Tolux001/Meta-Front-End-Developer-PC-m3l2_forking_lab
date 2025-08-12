@@ -91,6 +91,7 @@ Read the instructions of this file in the README.md
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
+  - [Kurtis](https://github.com/kurtiskronk/) Meta Front-End Developer Professional Certificate
 
 - ### **L**
 
@@ -186,4 +187,3 @@ Read the instructions of this file in the README.md
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
-
