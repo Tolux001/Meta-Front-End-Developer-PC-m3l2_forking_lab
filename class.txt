@@ -1,14 +1,14 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
+Carmesin
+Laranja
+Azul
+Ciano
+Amarelo
+Preto
+Caqui
 Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
-Dark blue
+Prata
+Fucsia
+Roxo
+Marrom
+Vermelho
+Azul Escuro
