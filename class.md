@@ -180,7 +180,8 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
-
+- ### **U**
+  - [Uma Maheswari Durairaj](https://github.com/Uma2290) Meta-Version control
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
