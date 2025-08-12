@@ -182,7 +182,7 @@ Read the instructions of this file in the README.md
 
 
 - ### **Y**
-
+  - [Yassine Abari](https://github.com/Abarii) Version Control
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
