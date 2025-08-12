@@ -115,6 +115,8 @@ Read the instructions of this file in the README.md
   - [Marco] - Version Control
 
   - [Margaret] - Front-End Development
+  
+  - [Mohan] - Front-End Development
 
   - [Maxwell](https://github.com/cpcsztt) Front-End Development
 
