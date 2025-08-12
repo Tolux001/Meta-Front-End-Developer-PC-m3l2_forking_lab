@@ -11,7 +11,6 @@ Read the instructions of this file in the README.md
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
@@ -87,7 +86,7 @@ Read the instructions of this file in the README.md
   - [Jolly] Meta iOS Developer Professional Certificate
 
 - ### **K**
-
+  - [Kudrah] London,UK - Meta Backend development Professional Certificate
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
