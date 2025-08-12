@@ -140,6 +140,7 @@ Read the instructions of this file in the README.md
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
   - [Phuwit] - Meta-Front-End
+  - [Pranav Vallamkonda](https://github.com/mmarron79) - Meta Front-End Developer Professional certficate
 
 - ### **R**
 
