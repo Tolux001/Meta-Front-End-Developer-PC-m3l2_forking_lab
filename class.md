@@ -60,7 +60,7 @@ Read the instructions of this file in the README.md
 
 - ### **F**
 
-  - [Faisal KSA] version control
+  - [Frieder Kesch](https://github.com/fkesch) Meta Front-End Developer
 
 - ### **G**
 
