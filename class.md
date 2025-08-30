@@ -1,6 +1,6 @@
 
 Read the instructions of this file in the README.md
-[Alfonso Larcant] (https://github.com/jalfons) Version control
+[Alfons Larcanta] (https://github.com/jalfons) Version controller
 # <b> Class List </b>
 
 <br/>
