@@ -56,6 +56,7 @@ Read the instructions of this file in the README.md
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
   - [Eric B](PA) - Meta Front-End Development
   - [Enrique](Dominican Republic) Version Control
+  - [Enrique] Version Control
 
 
 - ### **F**
