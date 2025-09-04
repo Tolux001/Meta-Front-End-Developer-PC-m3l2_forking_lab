@@ -26,3 +26,7 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 -Play around || Add more files
 
 -Please Don't Delete The README.md | class.md | Contributing.md file
+
+# Don't forget to Star this repo
+
+## Follow [Tolux001](http://github.com/tolux001) if this repo helped you.
