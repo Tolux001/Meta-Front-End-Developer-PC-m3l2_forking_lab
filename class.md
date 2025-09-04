@@ -24,6 +24,7 @@ Read the instructions of this file in the README.md
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
+  - [Aimad Eddine Ouali](https://github.com/Imadeddinn) Meta Front-End Developer Professional Certificate
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
   - [Alexander Onopriienko](https://github.com/Jobisfun) Front-End development
