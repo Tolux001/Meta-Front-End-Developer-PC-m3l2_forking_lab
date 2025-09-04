@@ -12,22 +12,26 @@ Read the instructions of this file in the README.md
 
 - ### **A**
 
-  - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
-
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
+
+  - [Aissa Ghouti](https://github.com/aissaghouti) Meta Android Developer Professional Certificate
+
+  - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
+
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
-
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
-
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
+  - [Aimad Eddine Ouali](https://github.com/Imadeddinn) Meta Front-End Developer Professional Certificate
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
-  - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
-  - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
-  - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
+  - [Alexander Onopriienko](https://github.com/Jobisfun) Front-End development
+  - [Atharva Pashankar](https://github.com/atharvapashankar) Meta Front-End development
+  - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
+  - [Aneesh] Meta Front-End Developer Professional Certificate
+  - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
 
 - ### **B**
 
@@ -45,7 +49,11 @@ Read the instructions of this file in the README.md
   - [Derek](https://github.com/dsfuller29) Front-end Development
 
   - [Diego Rejon](https://github.com/DiegoRejon) Back-end Development
+
   - [Danilo Leal Raul] Front End Development
+  - [Dat Nguyen](https://github.com/dtnguyen0503) Full-stack developer
+  - [Dimi](https://github.com/delorienC) Full-Stack Development
+
 
 - ### **E**
 
@@ -54,6 +62,9 @@ Read the instructions of this file in the README.md
   - [Eric] -- Meta Android Developer Professional Certificate
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
+  - [Eric B](PA) - Meta Front-End Development
+  - [Enrique](Dominican Republic) Version Control
+
 
 - ### **F**
 
@@ -62,6 +73,7 @@ Read the instructions of this file in the README.md
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
+  - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
 
 - ### **H**
 
@@ -90,6 +102,8 @@ Read the instructions of this file in the README.md
 
 - ### **L**
 
+  - [Leonel sanchez ](https://github.com/leotreinta) Meta Front-End Developer Professional Certificate
+  
   - [Lucas Diaz](https://github.com/lucasd2310) Meta Front-End Developer Professional Certificate
 
   - [Lucky](https://github.com/Luckzman) Meta Front-End Developer Professional Certificate
@@ -126,12 +140,20 @@ Read the instructions of this file in the README.md
 
   - [Nathan] - Front-End-Developer
   
+  - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
+
+  ### **O**
+
+  - [Oludoyi Olumide] - Meta Android Developer
 
 - ### **P**
 
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
+  - [Papa] - Meta-Front-End-Developer
+  - [Phuwit] - Meta-Front-End
+
 
 - ### **R**
 
