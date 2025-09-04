@@ -38,6 +38,7 @@ Read the instructions of this file in the README.md
 
   - [Constance](https://github.com/coco390) Frontend Development
   - [Claudia](https://github.com/Clau-panda) Frontend Development
+  - [Chao] Frontend Development
 
 - ### **D**
 
