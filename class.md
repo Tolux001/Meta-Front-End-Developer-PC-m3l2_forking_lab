@@ -159,8 +159,15 @@ Read the instructions of this file in the README.md
 
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
+
+ 
+- ### **Q**
+
+  -[Q] - USA. Front End Dev
+
   - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+
 
 
 - ### **R**
