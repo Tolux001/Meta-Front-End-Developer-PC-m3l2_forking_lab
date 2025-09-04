@@ -11,5 +11,9 @@ Fuchsia
 Purple
 Brown
 Dark blue
+
+Gold
+
 Teal
 Cyan
+
