@@ -62,8 +62,13 @@ Read the instructions of this file in the README.md
   - [Eric] -- Meta Android Developer Professional Certificate
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
+
+  - [Eduardo Cesconetto](https://github.com/cesconettoedu) Meta Front-End Development
+- ### **F**
+
   - [Eric B](PA) - Meta Front-End Development
   - [Enrique](Dominican Republic) Version Control
+
 
 
 - ### **F**
