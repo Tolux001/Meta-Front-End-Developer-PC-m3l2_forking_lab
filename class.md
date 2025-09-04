@@ -67,7 +67,7 @@ Read the instructions of this file in the README.md
 
 
 - ### **F**
-
+  - [Faisal Yakubu](https://github.com/Faisalqob) Meta Front-End Developer Professional Certificate
   - [Faisal KSA] version control
 
 - ### **G**
