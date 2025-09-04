@@ -10,6 +10,10 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
 Dark blue
+
 Gold
+
+Teal
+Cyan
+
