@@ -119,6 +119,7 @@ Read the instructions of this file in the README.md
 
   - [Lolita] - Version control
 - ### **M**
+  - [Mahmoud Hussein](https://github.com/mahmoudhussiendev) Front-End Development
 
   - [Monica-Pop](https://github.com/monipop) Front-End Development
 
