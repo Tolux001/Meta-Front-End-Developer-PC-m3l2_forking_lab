@@ -47,6 +47,7 @@ Read the instructions of this file in the README.md
 - ### **D**
 
   - [Derek](https://github.com/dsfuller29) Front-end Development
+  - [Dion](https://github.com/DionvdRiet) The Netherlands - Meta Front-end Development
 
   - [Diego Rejon](https://github.com/DiegoRejon) Back-end Development
 
