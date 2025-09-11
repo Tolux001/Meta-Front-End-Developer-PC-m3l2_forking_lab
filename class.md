@@ -78,6 +78,7 @@ Read the instructions of this file in the README.md
 - ### **G**
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
+- [Gustavo Morales](https://github.com/gmortiz87) - Meta: Control de versiones
   - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
 
 - ### **H**
