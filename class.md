@@ -156,6 +156,7 @@ Read the instructions of this file in the README.md
   ### **O**
 
   - [Oludoyi Olumide] - Meta Android Developer
+  - [Okiti Kobi] - Meta iOS Developer
 
 - ### **P**
   - [Prabin] - Version Control
