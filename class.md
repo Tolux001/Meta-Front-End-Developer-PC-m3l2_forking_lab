@@ -211,10 +211,15 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
+  - [Thura Nyi](https://github.com/Thuranyi98) Meta - Version control
+
+
 
 - ### **Y**
 
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
+
+  
 
