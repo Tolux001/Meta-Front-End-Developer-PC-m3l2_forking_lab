@@ -104,6 +104,7 @@ Read the instructions of this file in the README.md
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
+  - Konstantinos Meta Front-End Developer Professional Certificate
 
 - ### **L**
 
