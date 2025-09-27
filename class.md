@@ -175,6 +175,7 @@ Read the instructions of this file in the README.md
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  - [Rahman Mammdov](https://github.com/rehman-mammadov) Meta Front-End Developer Professional Certificate
   
   - [Ram Santosh] - India. Front-End-Developer
 
