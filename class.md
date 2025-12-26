@@ -194,6 +194,9 @@ Read the instructions of this file in the README.md
   - 
   - [Solnrned] Version Control
 
+  - [Sonalika](https://github.com/22053115) Kolkata, India — Meta React Native Certification
+
+
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
 
@@ -218,3 +221,4 @@ Read the instructions of this file in the README.md
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+- Sonalika, Kolkata, India — Meta React Native Certification
