@@ -13,6 +13,7 @@ Read the instructions of this file in the README.md
 - ### **A**
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
+  - [Aditya kumar Mishra](https://github.com/adimsh) Version Control
   - [Adriaan Henning](https://github.com/) Version Control
 
   - [Aissa Ghouti](https://github.com/aissaghouti) Meta Android Developer Professional Certificate
