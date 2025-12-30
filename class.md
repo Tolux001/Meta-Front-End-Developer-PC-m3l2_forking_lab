@@ -152,6 +152,7 @@ Read the instructions of this file in the README.md
   
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
+  - [Nipit Pongpan] - Version Control
 
   ### **O**
 
