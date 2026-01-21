@@ -1,6 +1,8 @@
 
 Read the instructions of this file in the README.md
 
+Maneesha Shibu
+Meta Front end developer
 # <b> Class List </b>
 
 <br/>
