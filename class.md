@@ -143,6 +143,8 @@ Read the instructions of this file in the README.md
   - Md Arfatul_Canada_Version Control
 
   - [Moayad] - Meta Front-end development Professional Certificate
+  
+  - [Mariam] - Meta Front-end development Professional Certificate
 
   - [Nick](https://github.com/nick121684) Version Control
 
