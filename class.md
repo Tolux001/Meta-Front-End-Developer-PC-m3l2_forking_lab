@@ -68,6 +68,7 @@ Read the instructions of this file in the README.md
 
   - [Eric B](PA) - Meta Front-End Development
   - [Enrique](Dominican Republic) Version Control
+  - [Emmanuel Ngele] Meta Android Development
 
 
 
