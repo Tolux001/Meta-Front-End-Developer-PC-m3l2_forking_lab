@@ -169,6 +169,7 @@ Read the instructions of this file in the README.md
 
   - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+  - [Patrick] - Version Control
 
 
 
