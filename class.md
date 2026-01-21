@@ -169,6 +169,7 @@ Read the instructions of this file in the README.md
 
   - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+  - [Pranav Vallamkonda](https://github.com/mmarron79) - Meta Front-End Developer Professional certficate
 
 
 
