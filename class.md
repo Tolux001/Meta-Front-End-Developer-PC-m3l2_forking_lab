@@ -105,6 +105,7 @@ Read the instructions of this file in the README.md
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kyle](https://github.com/kgullings/) Version Control
 
+
 - ### **L**
 
   - [Leonel sanchez ](https://github.com/leotreinta) Meta Front-End Developer Professional Certificate
@@ -177,6 +178,7 @@ Read the instructions of this file in the README.md
   - [Roger] - Norway. Front-End-Developer
   
   - [Ram Santosh] - India. Front-End-Developer
+  - [Riina] Meta Database Engineer Professional Certificate
 
 - ### **S**
 
