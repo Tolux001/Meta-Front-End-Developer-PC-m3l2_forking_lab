@@ -87,8 +87,8 @@ Read the instructions of this file in the README.md
   - [Hannah](https://github.com/HannahHuman) Front End Development!
   - [Hans](https://github.com/hansr3) Meta Front-End Developer Professional Certificate
   - [Hasan Kaan](https://github.com/h4s4nk44n) Front End Development!
-
-- ### **I**
+- - [Hoa Hoang] Version control
+- ###*I**
   - [Indra Leon](https://github.com/IndraLeonV) Frontend development
 
 - ### **J**
@@ -202,6 +202,7 @@ Read the instructions of this file in the README.md
   - [Tanya Lathion](https://github.com/tanyalathion) Version Control
 
   - [Thor Lindberg](https://github.com/thorlindberg) Version Control
+
 
   - [Toby Boreham](https://github.com/BlackVyper) iOS Development
 
