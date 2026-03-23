@@ -218,6 +218,9 @@ Juan Gomez - Version Control Certificate
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
+- ### **U**
+  - [Uma Maheswari Durairaj](https://github.com/Uma2290) Meta-Version control
+- ### **Y**
 
 - ### **V**
 
