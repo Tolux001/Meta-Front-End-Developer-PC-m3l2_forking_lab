@@ -1,6 +1,8 @@
 
 Read the instructions of this file in the README.md
 
+Juan Gomez - Version Control Certificate
+
 # <b> Class List </b>
 
 <br/>
@@ -12,23 +14,25 @@ Read the instructions of this file in the README.md
 
 - ### **A**
 
-  - [Akshay Kumar] (https://github.com/AkshayKumar-0) Frontend Development
-
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
+  - [Aissa Ghouti](https://github.com/aissaghouti) Meta Android Developer Professional Certificate
+  - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
-
+  - [Ashish Kumar](https://github.com/annagiac) Frontend development
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
-
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
+  - [Aimad Eddine Ouali](https://github.com/Imadeddinn) Meta Front-End Developer Professional Certificate
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
   - [Arthur](https://github.com/arthur-borisenko) Meta back-end developer
-  - [Alexander Onopriienko] (https://github.com/Jobisfun) Front-End development
-  - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
-  - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
-  - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
+  - [Alexander Onopriienko](https://github.com/Jobisfun) Front-End development
+  - [Atharva Pashankar](https://github.com/atharvapashankar) Meta Front-End development
+  - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
+  - [Aneesh] Meta Front-End Developer Professional Certificate
+  - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
+
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
@@ -36,7 +40,7 @@ Read the instructions of this file in the README.md
   - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
 
 - ### **C**
-
+  - [Christina](https://github.com/tattered-pantcuff) Meta Back-End Development
   - [Constance](https://github.com/coco390) Frontend Development
   - [Claudia](https://github.com/Clau-panda) Frontend Development
 
@@ -44,8 +48,12 @@ Read the instructions of this file in the README.md
 
   - [Derek](https://github.com/dsfuller29) Front-end Development
 
+  - [Diego Rejon](https://github.com/DiegoRejon) Back-end Development
+
   - [Danilo Leal Raul] Front End Development
+  - [Dat Nguyen](https://github.com/dtnguyen0503) Full-stack developer
   - [Dimi](https://github.com/delorienC) Full-Stack Development
+
 
 - ### **E**
 
@@ -54,11 +62,19 @@ Read the instructions of this file in the README.md
   - [Eric] -- Meta Android Developer Professional Certificate
   - [Erika Franco](https://github.com/ferfrasa) ios Development
   - [Elias Åkesson](https://github.com/eliasakesson) Meta Front-End Development
-  - [Enrique] (Dominican Republic) Version Control
 
+  - [Eduardo Cesconetto](https://github.com/cesconettoedu) Meta Front-End Development
 - ### **F**
 
+  - [Eric B](PA) - Meta Front-End Development
+  - [Enrique](Dominican Republic) Version Control
+
+
+
+- ### **F**
+  - [Faisal Yakubu](https://github.com/Faisalqob) Meta Front-End Developer Professional Certificate
   - [Faisal KSA] version control
+  - [Faycal] (Santa Clara) version control
 
 - ### **G**
 
@@ -102,6 +118,10 @@ Read the instructions of this file in the README.md
 
   - [Luis Castro](https://github.com/LuisCas18) Meta Front-End Developer Professional Certificate
 
+  - [LE]() Meta Front-End Developer Professional Certificate
+
+  - [Lolita] - Version control
+  
 - ### **M**
 
   - [Monica-Pop](https://github.com/monipop) Front-End Development
@@ -111,6 +131,8 @@ Read the instructions of this file in the README.md
   - [Mehmet Yilmaz](https://github.com/mehmet520) Front-End Development
 
   - [Marco] - Version Control
+
+  - [Mark] - Version Control
 
   - [Margaret] - Front-End Development
 
@@ -127,6 +149,7 @@ Read the instructions of this file in the README.md
   - [Moayad] - Meta Front-end development Professional Certificate
 
   - [Michaela] - Meta Back-End Development Professional Certificate 
+  - [Nick](https://github.com/nick121684) Version Control
 
 - ### **N**
 
@@ -135,11 +158,24 @@ Read the instructions of this file in the README.md
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
-- ### **P**
+  ### **O**
 
+  - [Oludoyi Olumide] - Meta Android Developer
+
+- ### **P**
+  - [Prabin] - Version Control
   - [Pedro] - Meta-Front-End
   - [Paula] - Meta-Front-End
+
+ 
+- ### **Q**
+
+  -[Q] - USA. Front End Dev
+
+  - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+
+
 
 - ### **R**
 
@@ -160,8 +196,11 @@ Read the instructions of this file in the README.md
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
 
   - [Sanjay] Back-End-Development
-  - 
+  
   - [Solnrned] Version Control
+
+  - [Shane Forsythe](https://github.com/4sytheLTD) Meta React Native & Front End Developer IA, United States
+
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
@@ -180,9 +219,17 @@ Read the instructions of this file in the README.md
 
   - [Thendelo Romario Mashapha](https://github.com/thendelonaz) Meta- Version control
 
-
+- ### **U**
+  - [Uma Maheswari Durairaj](https://github.com/Uma2290) Meta-Version control
 - ### **Y**
 
+- ### **V**
+
+  - [Vishnu Prasad P S](https://github.com/vish-prsd) Meta- Version control
+
+
+- ### **Y**
+  - [Yassine Abari](https://github.com/Abarii) Version Control
   - [Yuliia Shevchuk](https://github.com/Y-uliia-dot) Version Control
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
