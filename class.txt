@@ -10,6 +10,14 @@ Silver
 Fuchsia
 Purple
 Brown
+
 Red
-navy blue
-Tangerine
+Cerulean
+
+Dark blue
+
+Gold
+
+Teal
+Cyan
+
