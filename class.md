@@ -16,14 +16,12 @@ Juan Gomez - Version Control Certificate
 
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
   - [Adriaan Henning](https://github.com/) Version Control
-
   - [Aissa Ghouti](https://github.com/aissaghouti) Meta Android Developer Professional Certificate
-
   - [Akshay Kumar](https://github.com/AkshayKumar-0) Frontend Development
-
   - [Aleksandr](https://github.com/Aleksanderlebedenko) Version Control
   - [Andrea Mauriello](https://github.com/squiddipentacolo) Frontend development
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
+  - [Ashish Kumar](https://github.com/annagiac) Frontend development
   - [Auro Kumar Sahu](https://github.com.aurokumarsahu) Frontend development
   - [Ahmed Al Jahwari](https://github.com/A7MED92OM) Version Control
   - [Aimad Eddine Ouali](https://github.com/Imadeddinn) Meta Front-End Developer Professional Certificate
