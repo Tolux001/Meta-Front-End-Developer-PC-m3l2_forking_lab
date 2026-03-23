@@ -105,6 +105,7 @@ Juan Gomez - Version Control Certificate
 
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
+  - [Kelvin] - Lusaka, Zambia - Version Control
   - [Kyle](https://github.com/kgullings/) Version Control
 
 - ### **L**
