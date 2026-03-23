@@ -150,6 +150,7 @@ Juan Gomez - Version Control Certificate
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Miha] (https://github.com/rePinyo) - Meta Front-End Developer Professional Certificate
   - [Michaela] - Meta Back-End Development Professional Certificate 
   - [Nick](https://github.com/nick121684) Version Control
 
