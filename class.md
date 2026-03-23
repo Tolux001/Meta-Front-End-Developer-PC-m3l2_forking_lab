@@ -148,6 +148,7 @@ Juan Gomez - Version Control Certificate
 
   - [Moayad] - Meta Front-end development Professional Certificate
 
+  - [Michaela] - Meta Back-End Development Professional Certificate 
   - [Nick](https://github.com/nick121684) Version Control
 
 - ### **N**
