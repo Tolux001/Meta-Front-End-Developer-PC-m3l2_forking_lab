@@ -180,6 +180,7 @@ Juan Gomez - Version Control Certificate
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
+  - [Rodolfo] - Peru. Meta Front-End-Developer Certificate
   
   - [Ram Santosh] - India. Front-End-Developer
 
