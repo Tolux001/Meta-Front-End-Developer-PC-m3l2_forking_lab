@@ -80,6 +80,7 @@ Juan Gomez - Version Control Certificate
 
   - [GuylaineP](https://github.com/GuylaineP) Frontend Development
   - [Gabriel Martinez](https://github.com/gmartinez7435) Frontend Development
+  - [Gauris Javier](https://github.com/gauris26) Meta iOS Developer Professional Certificate
 
 - ### **H**
 
