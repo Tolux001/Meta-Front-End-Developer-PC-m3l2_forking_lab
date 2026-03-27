@@ -32,7 +32,7 @@ Juan Gomez - Version Control Certificate
   - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
   - [Aneesh] Meta Front-End Developer Professional Certificate
   - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
-
+  - [Agyemang David](https://github.com/AgyemangDavid) Verssion Control
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
