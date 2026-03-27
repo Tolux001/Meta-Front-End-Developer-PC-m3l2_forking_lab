@@ -186,6 +186,7 @@ Juan Gomez - Version Control Certificate
   - [Rodolfo] - Peru. Meta Front-End-Developer Certificate
   
   - [Ram Santosh] - India. Front-End-Developer
+  - [Ryan Oliver Euden] - Version Control
 
 - ### **S**
 
