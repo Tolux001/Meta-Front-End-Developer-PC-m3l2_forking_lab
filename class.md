@@ -238,3 +238,6 @@ Juan Gomez - Version Control Certificate
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+Patrick Macabulos
+Melbourne
+Meta frontend developer course
