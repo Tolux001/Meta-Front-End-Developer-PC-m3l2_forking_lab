@@ -157,7 +157,7 @@ Juan Gomez - Version Control Certificate
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+  - [NickyLugo] - Meta Android Developer Professional Certificate - Vision Control
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
