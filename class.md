@@ -53,6 +53,7 @@ Juan Gomez - Version Control Certificate
   - [Danilo Leal Raul] Front End Development
   - [Dat Nguyen](https://github.com/dtnguyen0503) Full-stack developer
   - [Dimi](https://github.com/delorienC) Full-Stack Development
+  - [Darshaka](https://github.com/Darshaka2001) Version Control
 
 
 - ### **E**
