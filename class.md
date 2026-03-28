@@ -157,7 +157,7 @@ Juan Gomez - Version Control Certificate
 - ### **N**
 
   - [Nathan] - Front-End-Developer
-  
+  -[Nana] - Mexico, Meta-Front-End
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
 
