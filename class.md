@@ -100,6 +100,7 @@ Juan Gomez - Version Control Certificate
   - [Joshua Maroney] -git Meta Front-End Developer Professional Certificate
   - [Joshua] -git Meta Front-End Developer Professional Certificate
   - [Jolly] Meta iOS Developer Professional Certificate
+  - [Juan](https://github.com/JuanMproyect) - Meta Front-End Developer Professional Certificate
 
 - ### **K**
 
