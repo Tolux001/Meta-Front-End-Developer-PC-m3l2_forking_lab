@@ -32,6 +32,7 @@ Juan Gomez - Version Control Certificate
   - [Andry RAKOTOSAMIMANANA](https://github.com/AndryDev007) Meta Front-End development
   - [Aneesh] Meta Front-End Developer Professional Certificate
   - [Ahmad Muawya](https://github.com/AhmadMuawya) Verssion Control
+  - [Alvin Tri Hartono](https://github.com/vnth5566) Meta Front-End development
 
 - ### **B**
 
