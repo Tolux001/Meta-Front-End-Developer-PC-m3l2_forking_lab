@@ -202,6 +202,7 @@ Juan Gomez - Version Control Certificate
   - [Sanjay] Back-End-Development
   
   - [Solnrned] Version Control
+  - [Samart Karuchit] (https://github.com/samartka) Front-End Development
 
   - [Shane Forsythe](https://github.com/4sytheLTD) Meta React Native & Front End Developer IA, United States
 
