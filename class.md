@@ -177,6 +177,7 @@ Juan Gomez - Version Control Certificate
 
   - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+  - [Patrick] - Version Control
 
 
 
