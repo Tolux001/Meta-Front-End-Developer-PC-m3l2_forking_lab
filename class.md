@@ -160,6 +160,7 @@ Juan Gomez - Version Control Certificate
   
   - [Nicolas] - Canada, Meta-Front-End
   - [Nyahgit] - Meta-Front-End
+  - [Ny4ch] - Meta Back-End Developer 
 
   ### **O**
 
