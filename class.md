@@ -149,6 +149,8 @@ Juan Gomez - Version Control Certificate
   - Md Arfatul_Canada_Version Control
 
   - [Moayad] - Meta Front-end development Professional Certificate
+  
+  - [Mariam] - Meta Front-end development Professional Certificate
 
   - [Miha] (https://github.com/rePinyo) - Meta Front-End Developer Professional Certificate
   - [Michaela] - Meta Back-End Development Professional Certificate 
