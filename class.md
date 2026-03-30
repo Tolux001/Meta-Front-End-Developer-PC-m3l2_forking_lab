@@ -42,6 +42,7 @@ Juan Gomez - Version Control Certificate
 - ### **C**
   - [Christina](https://github.com/tattered-pantcuff) Meta Back-End Development
   - [Constance](https://github.com/coco390) Frontend Development
+  - [Corrado](https://github.com/corradoghedin) Version Control
   - [Claudia](https://github.com/Clau-panda) Frontend Development
 
 - ### **D**
