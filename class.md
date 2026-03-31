@@ -238,3 +238,4 @@ Juan Gomez - Version Control Certificate
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+  - [Yanfei](https://github.com/Yanfei-HF) Meta Front-End Developer
