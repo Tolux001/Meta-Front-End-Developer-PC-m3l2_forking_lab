@@ -125,6 +125,7 @@ Juan Gomez - Version Control Certificate
   - [Lolita] - Version control
   
 - ### **M**
+  - [Mahmoud Hussein](https://github.com/mahmoudhussiendev) Front-End Development
 
   - [Monica-Pop](https://github.com/monipop) Front-End Development
 
