@@ -238,3 +238,4 @@ Juan Gomez - Version Control Certificate
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+Shahab - Munich - Meta Front-End Developer Certificate
