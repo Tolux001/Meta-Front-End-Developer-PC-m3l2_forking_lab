@@ -187,6 +187,8 @@ Juan Gomez - Version Control Certificate
   
   - [Ram Santosh] - India. Front-End-Developer
 
+  - [Roberto] - Honduras. Front-End-Developer
+
 - ### **S**
 
   - [Savvas Voriazidis](https://github.com/voriazidis) Android development
