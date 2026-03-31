@@ -38,6 +38,7 @@ Juan Gomez - Version Control Certificate
   - [Brent](https://github.com/brent0w) Backend Development
   - [Brian](https://github.com/bchakanyuka) Meta Front-End Development
   - [Bindu](https://github.com/Bindu3192) Meta Front-End Development
+  - [Bignarem](https://github.com/Bignarem) Meta Front-end development Professional Certificate
 
 - ### **C**
   - [Christina](https://github.com/tattered-pantcuff) Meta Back-End Development
