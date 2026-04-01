@@ -119,6 +119,8 @@ Juan Gomez - Version Control Certificate
   - [Laieh] Meta Front-End
 
   - [Luis Castro](https://github.com/LuisCas18) Meta Front-End Developer Professional Certificate
+  
+  - [Leolice Anael Mojica](https://github.com/leolice36/) Meta Front-End Developer Professional Certificate
 
   - [LE]() Meta Front-End Developer Professional Certificate
 
