@@ -238,3 +238,6 @@ Juan Gomez - Version Control Certificate
 
   - [Yahor Tsyvilka] (https://github.com/korgez) Version Control
 
+Dvorah
+Chicago
+back end developer
