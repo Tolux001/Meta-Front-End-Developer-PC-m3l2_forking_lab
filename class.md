@@ -107,6 +107,7 @@ Juan Gomez - Version Control Certificate
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
   - [Kelvin] - Lusaka, Zambia - Version Control
   - [Kyle](https://github.com/kgullings/) Version Control
+  - [Kat](https://github.com/katbsc/) Version Control
 
 - ### **L**
 
