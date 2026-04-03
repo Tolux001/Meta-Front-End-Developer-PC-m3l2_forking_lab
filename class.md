@@ -68,6 +68,7 @@ Juan Gomez - Version Control Certificate
 
   - [Eric B](PA) - Meta Front-End Development
   - [Enrique](Dominican Republic) Version Control
+  - [Emmanuel Ngele] Meta Android Development
 
 
 
