@@ -177,6 +177,7 @@ Juan Gomez - Version Control Certificate
 
   - [Papa] - Meta-Front-End-Developer
   - [Phuwit] - Meta-Front-End
+  - [Pranav Vallamkonda](https://github.com/mmarron79) - Meta Front-End Developer Professional certficate
 
 
 
